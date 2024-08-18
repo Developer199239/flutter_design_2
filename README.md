@@ -1,5 +1,5 @@
 # basic_widget_2
 ## Screenshots
 
-<img src="images/screenshot.png" width="300" height="500" alt="Screenshot 1">
+<img src="images/screenshot.png" width="350" height="550" alt="Screenshot 1">
 
